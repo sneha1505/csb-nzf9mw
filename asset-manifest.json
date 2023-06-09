@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://sneha1505.github.io/csb-nzf9mw/static/css/main.1e39348c.chunk.css",
+    "main.js": "https://sneha1505.github.io/csb-nzf9mw/static/js/main.0e741c54.chunk.js",
+    "main.js.map": "https://sneha1505.github.io/csb-nzf9mw/static/js/main.0e741c54.chunk.js.map",
+    "runtime-main.js": "https://sneha1505.github.io/csb-nzf9mw/static/js/runtime-main.0f1a8861.js",
+    "runtime-main.js.map": "https://sneha1505.github.io/csb-nzf9mw/static/js/runtime-main.0f1a8861.js.map",
+    "static/js/2.b51b572f.chunk.js": "https://sneha1505.github.io/csb-nzf9mw/static/js/2.b51b572f.chunk.js",
+    "static/js/2.b51b572f.chunk.js.map": "https://sneha1505.github.io/csb-nzf9mw/static/js/2.b51b572f.chunk.js.map",
+    "index.html": "https://sneha1505.github.io/csb-nzf9mw/index.html",
+    "precache-manifest.9a49802b93d8eadc2c03ebc9ad4de2de.js": "https://sneha1505.github.io/csb-nzf9mw/precache-manifest.9a49802b93d8eadc2c03ebc9ad4de2de.js",
+    "service-worker.js": "https://sneha1505.github.io/csb-nzf9mw/service-worker.js",
+    "static/css/main.1e39348c.chunk.css.map": "https://sneha1505.github.io/csb-nzf9mw/static/css/main.1e39348c.chunk.css.map",
+    "static/js/2.b51b572f.chunk.js.LICENSE.txt": "https://sneha1505.github.io/csb-nzf9mw/static/js/2.b51b572f.chunk.js.LICENSE.txt",
+    "static/js/main.0e741c54.chunk.js.LICENSE.txt": "https://sneha1505.github.io/csb-nzf9mw/static/js/main.0e741c54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f1a8861.js",
+    "static/js/2.b51b572f.chunk.js",
+    "static/css/main.1e39348c.chunk.css",
+    "static/js/main.0e741c54.chunk.js"
+  ]
+}
